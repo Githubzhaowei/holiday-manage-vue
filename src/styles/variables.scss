@@ -1,0 +1,12 @@
+:root {
+    --bg: teal;
+}
+$--color-primary: teal;
+
+$--font-path: "~element-ui/lib/theme-chalk/fonts";
+
+@import "~element-ui/packages/theme-chalk/src/index";
+
+$font-title: 26px;
+$font-text: 14px;
+$color: var(--bg);
